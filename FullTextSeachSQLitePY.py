@@ -1,5 +1,5 @@
 # -*- encoding: utf-8 -*-
-# Made by http://www.elmalabarista.com
+# Made by http://www.rakesh-chinta.github.io
 # This will teach about how use the sqlite full text search
 # abilities from python
 
